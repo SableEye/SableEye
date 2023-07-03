@@ -2,4 +2,3 @@
 - I'm looking to use GitHub to keep track of projects and grow my coding skills
 - Currently, I am learning the basis of Python and SQL, as well as, looking into introductory data analyitics
 - Collaboration is not currently a high priority for me just due to not having enough technical skill with programming yet
--
